@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>matchsplitter</name>
-  <url>https://github.com/FelStorm21/AC-Team-Question-Splitter</url>
+  <url>https://github.com/FelStorm21/AC-Team-Match-Splitter</url>
 
   <properties>
   	<project.build.sourceEncoding>Cp1252</project.build.sourceEncoding>

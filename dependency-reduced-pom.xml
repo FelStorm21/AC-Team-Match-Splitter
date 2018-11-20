@@ -5,7 +5,7 @@
   <artifactId>matchsplitter</artifactId>
   <name>matchsplitter</name>
   <version>1.0</version>
-  <url>https://github.com/FelStorm21/AC-Team-Question-Splitter</url>
+  <url>https://github.com/FelStorm21/AC-Team-Match-Splitter</url>
   <build>
     <plugins>
       <plugin>
