@@ -33,6 +33,9 @@ public class Main {
 				}
 			} else if (args[0].equals("-path")){
 				dir.setRootPath(Paths.get(args[1]));
+			} else {
+				System.out.println("Invalid input.");
+				isRunning = false;
 			}
 			
 		}
