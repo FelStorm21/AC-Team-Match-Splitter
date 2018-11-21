@@ -4,15 +4,11 @@ import java.io.File;
 import java.lang.reflect.InvocationTargetException;
 
 import javax.swing.JFileChooser;
-import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
-import javax.swing.filechooser.FileNameExtensionFilter;
 
 public class GUI {
 	
-	private JFrame frame;
 	private JFileChooser fileChooser;
-	private FileNameExtensionFilter filter;
 	private File selectedFile;
 	private boolean didSelect;
 	
